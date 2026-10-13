@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "compass": {
+      "type": "http",
+      "url": "https://campass-btv.up.railway.app/mcp/"
+    }
+  }
+}
