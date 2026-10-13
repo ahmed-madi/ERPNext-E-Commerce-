@@ -1,0 +1,14 @@
+{
+  "extraKnownMarketplaces": {
+    "compass": {
+      "source": {
+        "source": "github",
+        "repo": "RenderForge/compass-plugin"
+      },
+      "autoUpdate": true
+    }
+  },
+  "enabledPlugins": {
+    "compass@compass": true
+  }
+}
